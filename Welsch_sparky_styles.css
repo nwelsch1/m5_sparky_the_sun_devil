@@ -12,7 +12,6 @@ body{
 }
 header, footer, div{
     width: 1000px center;
-    text-align: center;
     margin-top: 0;
     margin-bottom: 0;
     margin-left: auto;
