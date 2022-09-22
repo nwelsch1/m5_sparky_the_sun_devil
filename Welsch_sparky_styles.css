@@ -33,7 +33,13 @@ h2{
 h3{
     font-size: 24px;
 }
-.grid-container{
+#grid-container{
     display: grid;
     grid-template-columns: 1.5fr 5fr;
+}
+nav{
+    background-color: #ffc627;
+}
+nav ul{
+
 }
