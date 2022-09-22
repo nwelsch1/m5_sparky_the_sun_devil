@@ -46,3 +46,17 @@ nav ul{
 nav li{
     list-style-type: disc;
 }
+nav a{
+    display: block;
+    background-color: #8c1d40;
+    color: #fff;
+    padding: 8px;
+    text-align: center;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    margin-left: 16px;
+    margin-right: 16px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+}
