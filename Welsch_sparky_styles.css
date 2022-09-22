@@ -11,7 +11,7 @@ body{
     color: #222;
 }
 header, footer, div{
-    width: 1000px center;
+    width: 1000px;
     margin-top: 0;
     margin-bottom: 0;
     margin-left: auto;
