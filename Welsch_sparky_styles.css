@@ -41,5 +41,8 @@ nav{
     background-color: #ffc627;
 }
 nav ul{
-
+    padding-left: 0;
+}
+nav li{
+    list-style-type: disc;
 }
