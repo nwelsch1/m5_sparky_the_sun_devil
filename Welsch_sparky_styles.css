@@ -76,4 +76,7 @@ main a:hover{
     color: #fff;
     padding: 4px;
 }
+p, q{
+    color: #444;
+}
 
