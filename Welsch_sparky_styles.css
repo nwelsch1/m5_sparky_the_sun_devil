@@ -71,3 +71,9 @@ main a{
     color: #8c1d40;
     font-weight: bold;
 }
+main a:hover{
+    background-color: #8c1d40;
+    color: #fff;
+    padding: 4px;
+}
+
