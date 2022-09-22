@@ -93,3 +93,8 @@ footer h2{
     font-size: 24px;
     margin: 8px;
 }
+address{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+}
