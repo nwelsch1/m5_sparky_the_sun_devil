@@ -79,4 +79,7 @@ main a:hover{
 p, q{
     color: #444;
 }
+q{
+    font-style: italic;
+}
 
