@@ -64,3 +64,11 @@ nav a:hover{
     background-color: #fff;
     color: #8c1d40;
 }
+main{
+    background-color: #fff;
+    padding: 24px;
+}
+main a{
+    color: #8c1d40;
+    font-weight: bold;
+}
